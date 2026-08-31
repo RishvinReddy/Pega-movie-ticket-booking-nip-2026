@@ -1,3 +1,5 @@
+![Movie Ticket Booking Management](./image.png)
+
 # NIP Movie Ticket Booking Management
 A Pega-based Movie Ticket Booking Management application developed for the National Internship Program (NIP).
 
